@@ -4612,7 +4612,7 @@ a.text-theme:hover,
 .main-menu a {
   display: block;
   position: relative;
-  font-weight: 500;
+  font-weight: 800;
   font-size: 16px;
   color: var(--white-color);
   text-transform: uppercase;
@@ -5886,7 +5886,7 @@ a.text-theme:hover,
 
 .breadcumb-wrapper {
   background-color: var(--title-color);
-  padding: 75px 0;
+  padding: 60px 0;
   overflow: hidden;
 }
 
@@ -12703,7 +12703,7 @@ ul.comment-list .as-comment-item:first-child > .as-post-comment {
   transition: 0.4s ease-in-out;
   /* border: 3px solid var(--theme-color); */
   border-radius: 10px;
-  filter: brightness(90%)
+  /* filter: brightness(90%) */
 }
    .helpdiv {
             display: flex;
